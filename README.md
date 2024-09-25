@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prasanthak7
+- 👋 Hi, I’m Prasanth AK
 - 👀 I’m interested in industrial automation
 - 🌱 I’m currently learning computer programming
 - 💞️ I’m looking to collaborate on ...
